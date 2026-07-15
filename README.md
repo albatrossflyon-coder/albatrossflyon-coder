@@ -1,6 +1,6 @@
 # Chris Brown
 
-AI Automation Engineer | Agentic Workflow Builder | MCP, Claude, API Integrations | Founder, [Albatross AI](https://albatrossai.online)
+AI Automation Engineer | Agentic Workflow Builder | MCP, Claude, API Integrations
 
 I build AI automation systems for construction, contractors, and trades businesses — replacing manual back-office work (estimates, scheduling, client communication, follow-up) with practical AI workflows.
 
