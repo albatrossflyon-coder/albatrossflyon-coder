@@ -2,10 +2,10 @@
 
 # Chris Brown
 
-### AI Automation Engineer &nbsp;|&nbsp; Agentic Workflow Builder &nbsp;|&nbsp; MCP · Claude · API Integrations
+### Full-Stack Developer &nbsp;|&nbsp; AI Automation Engineer &nbsp;|&nbsp; React · Next.js · MCP · Claude
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=650&lines=Building+AI+Agents+%26+MCP+Servers;Automating+back-office+work+for+trades+%26+contractors;Claude+%2F+Anthropic+API+%C2%B7+Python+%C2%B7+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%E2%80%94+React+%2F+Next.js;Building+AI+Agents+%26+MCP+Servers;Automating+back-office+work+for+trades+%26+contractors" alt="Typing SVG" />
 </p>
 
 <p>
@@ -18,11 +18,11 @@
 
 ---
 
-I build AI automation systems for construction, contractors, and trades businesses — replacing manual back-office work (estimates, scheduling, client communication, follow-up) with practical, working AI agents. Founder, Albatross AI.
+I'm a full-stack developer building both sides of the stack — React/Next.js frontends and the AI/automation systems behind them. Recent work spans client sites (nonprofits, small businesses), internal AI tooling (security scanning, job-search automation), and AI agent systems for construction and trades businesses. Founder, Albatross AI.
 
 ## 🎯 Background
 
-20 years managing people and operations before moving into AI engineering — the same skill, different tools. Running a multi-agent pipeline (job-hunter, vuln-hunter, nanobot) is orchestration: assigning work, catching failures, deciding what ships. I bring that management discipline to how I build and run automation.
+20 years managing people and operations before moving into full-stack and AI engineering — the same skill, different tools. On the frontend, I build with React and Next.js for client sites and my own product dashboards. On the backend, I build the AI/automation systems those front ends talk to. Running a multi-agent pipeline (job-hunter, vuln-hunter, nanobot) is the same orchestration discipline: assigning work, catching failures, deciding what ships.
 
 ## 🛠️ What I work with
 
@@ -30,7 +30,7 @@ I build AI automation systems for construction, contractors, and trades business
 
 | 🔌 AI & Protocols | 💻 Languages |
 |:---:|:---:|
-| <br><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge" /><br> | <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br> |
+| <br><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" /><br> | <br><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br> |
 
 <br>
 
