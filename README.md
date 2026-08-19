@@ -14,6 +14,12 @@
   <a href="https://chrisbrown-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chrisbrown--dev-D97757?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albatrossflyon-coder/albatrossflyon-coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/albatrossflyon-coder/albatrossflyon-coder/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/albatrossflyon-coder/albatrossflyon-coder/output/github-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
@@ -113,6 +119,12 @@ I'm a full-stack developer building both sides of the stack — React/Next.js fr
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albatrossflyon-coder&bg_color=1a1b27&color=ff6b9d&line=ff6b9d&point=ffd93d&area=true&area_color=ff6b9d&hide_border=true" width="100%" />
+</div>
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albatrossflyon-coder&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ## 🎓 Certifications
